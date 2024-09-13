@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [my portfolio](https://youssefbenomrane.netlify.app/)
 
-- 🌱 I’m currently learning **Data analysis with Python and Excel**
+- 🌱 I’m currently learning **Machine Learning with Python**
 
 - 👨‍💻 All of my projects are available at [https://youssefbenomrane.netlify.app/](https://youssefbenomrane.netlify.app/)
 
 - 💬 Ask me about **react , vue , gsap, java and springboot**
 
-- 📫 How to reach me **youssefbenomrane45@gmail.com**
+- 📫 How to reach me **benomraneyoussef@isitc.u-sousse.tn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
